@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+hr {
+  border-color: inherit;
+  border-style: dotted none none;
+  border-width: 6px;
+  width: 4%
+}
+h1 {
+  font-size: 562.5%;
+  font-family: 'Sacramento', cursive;
+  margin: 20px auto 0 auto;
+  color: #66BFBF;
+  line-height: 1.5
+}
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #66BFBF
+}
+h3 {
+  font-size: 20px;
+  color: #11999E
+}
+p {
+  font-size: 2vmin;
+}
+a:hover {
+  color: #11999E;
+}
+.ava {
+  border-radius: 100%;
+  left: 10px;
+  position: fixed;
+  top: 10px
+}
+.top-container {
+  background-color: #DEF5E5;
+  margin: 0;
+  padding-top: 15%;
+  position: relative;
+}
+.cloud {
+  position: absolute;
+  right: 22%;
+  top: 6%
+}
+.cloud1 {
+  position: absolute;
+  left: 22%;
+}
+.me {
+  border-radius: 50%
+}
+.heading {
+  font-size: 50px
+}
+.pro {
+  text-decoration: underline;
+}
+.heading {
+  font-style: oblique;
+  margin: 0
+}
+.edu {
+  margin-top: 0
+}
+.hi {
+  margin-top: 8
+}
+.Web {
+  text-decoration: underline;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+ line-height: 1.5
+}
+.skill{
+  width: 20%;
+  float: left;
+  margin-right: 30px
+}
+.foodie{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
